@@ -1,0 +1,299 @@
+FT,WK,JQ,YF,JN,WQ,FK,YT,DP,PQ,LI,NY,RF,TC,TA,EO,EE,YE,XF,CF,DC,GD,EX,CS,ES,UW,MN,SV,KU,SQ
+huTiU: FT-1, kKT15: WK-2
+5
+FT:25,WK:17,JQ:7,YF:13,JN:12,WQ:4,FK:6,YT:28,DP:24,PQ:23,LI:20,NY:2,RF:18,TC:26,TA:24,EO:6,EE:5,YE:10,XF:3,CF:28,DC:14,GD:17,EX:22,CS:0,ES:19,UW:18,MN:12,SV:28,KU:6,SQ:4
+FT:17,WK:24,JQ:29,YF:20,JN:13,WQ:15,FK:17,YT:22,DP:15,PQ:25,LI:0,NY:3,RF:7,TC:9,TA:24,EO:28,EE:16,YE:16,XF:24,CF:2,DC:5,GD:1,EX:24,CS:27,ES:6,UW:6,MN:7,SV:14,KU:29,SQ:19
+huTiU: kKT15, VhI2f
+w2noN: 73EP2, MuPq2, Mim0u
+AKCLP: InKfk, nMuNK, VROt3
+ycezf: HGK6i, zoyqI, fWeTM, Mim0u
+6ld9y: i9SEB, oQD3A, yCDV3, AwVf8, hJXvI, TZgoJ
+sy9RI: i9SEB, OVG3D, eZyXf, 9tEih
+a3e1e: IeeYX, 2ZMkN, dqXBl, NjsLt, 5c7NG
+Jup0g: dDmbS, 2aWVt, 8W913, webwG, QNZmi, 5c7NG
+jK142: pNmCG, E7cCj, Tp8SK, AZbgm
+7Mj7H: 13ve9, uUeN5
+kcx0t: hbgZ2, xMtsG, uUeN5, Eq22T
+ILY8P: dJeeM, fMPPT, gJU75, XVPhx
+hbgZ2: EtWhR, 9vXPa, ExVbP, vuh49, kcx0t
+PGgX1: qMo3Y, j1F59, jaonu, EtWhR
+jaonu: SSf6o, JSxpI, PGgX1
+Wmds1: bXthp, NYAxC
+Tp8SK: hJXvI, 31sIo, jK142, X815M, lz3xC
+4mIm6: BLTNm, 31sIo, 9bi1d, My6fy, CfqNf
+WAMEI: 2xcRV, QxCme, y6Oo4, GwbmA
+zwm9a: KsPVI, KEdRl, 6LP1o, oxD8Y
+InKfk: AKCLP, rgiqf, D7myE
+0mgAw: 4dWW3, i9SEB, yp1Kf, 13ve9, dOA6p
+KsPVI: Y3jXu, hBTgU, DtJzl, zwm9a
+ZoufM: KEdRl, SSf6o, QNZmi, fWeTM, S0BSt, tApwz, dOA6p
+Ce6Ln: LjbNg, 8YZ5Z, ZR4Cs
+dJeeM: ILY8P, IzGuo
+QqEUx: DLXz8, KaHt7
+ryY3C: Bsvo0, OI18z, 9vXPa, z9R0C
+03Qka: SFulX, tF4XE, 7Bwyk, vk5nw, LRl9M
+pNmCG: ySdnc, IeeYX, jTTjs, jK142, 13ve9
+Ximnx: Npdd3
+O5rPL: L31GS, e8d1X, CfqNf, eF45X, KEdRl, zDivb
+tAxYa: xIapw
+osI8Q: dxHnB, KYVE4, sc2uc, YNHSb
+zxvrw: 73EP2, i9SEB, D3fy1, hJXvI, QxCme
+S5Qez: 4dWW3, dxHnB, o0GIB, w6qL5
+tNM6l: YNHSb, fWeTM, lz3xC
+jTTjs: xIapw, Bsvo0, jch0n, NjsLt, pNmCG, YNHSb, KaHt7, U1z3R
+ogKsQ: OI18z, VB87t, QNZmi, NYAxC
+J0G8g: a34nw, UVKm5
+QxCme: L31GS, kKT15, zxvrw, tApwz, W3pt9, Y84Un, WAMEI, TZgoJ
+otn40: SSf6o, PIVyF, NjsLt
+uSssk: 3EX5l, Kt9O1
+avpJw: vXndd, kTiRg, AkMjn, AwVf8, KEdRl, hJXvI, 7O5hB
+4dWW3: DJIuH, 0mgAw, 13ve9, S5Qez, 9vXPa, 2a3vO
+E7cCj: PIVyF, 8v9Tx, jK142, OrtXB, AkMjn, GNCDg, vDT6R, PXw1l
+y3Twf: hGoNY, nA17G
+D3fy1: yCDV3, zxvrw, hBTgU
+9Ktc8: psA6O, eZyXf, D7myE
+88nSP: 13ve9, aYVlB, GNCDg, PXw1l
+UUdcM: YRwnk, OVG3D, gyUZj, U1z3R
+QNZmi: ZoufM, oh9Hr, Jup0g, ogKsQ, EtWhR, z9R0C, zDivb
+9bi1d: psA6O, gWQut, 4mIm6, eZyXf
+8YZ5Z: Ce6Ln, EIdAJ, XNyZx, KcMji, JNx0R, 2aWVt
+uUeN5: vDT6R, 7Mj7H, kcx0t
+AI3Py: xIapw, Ohm1q, 4HqPJ, 31sIo, lz3xC
+My6fy: dxHnB, 4mIm6, WlgT1, tGOlE
+3YmhS: fA1uh, KcMji
+U1z3R: jTTjs, UUdcM
+j1F59: PGgX1, nA17G
+UXVxT: oh9Hr, J0ixA, CfqNf, 959sF, gyUZj, aNEQ7, gJU75, Qg1zm
+2ZMkN: R9QCH, a3e1e, kKT15, j2gxa
+LLEMM: w6qL5
+zoyqI: 7Bwyk, ycezf, VvMbe
+K8HLb: X03pO, 9a7Y7, VftKq, 3WWCo, Eq22T
+PIVyF: E7cCj, FROjw, otn40, rgiqf, tMl4Y
+e8d1X: IeeYX, 8v9Tx, O5rPL, ESfkt, DJIuH
+GKyp5: EtWhR, ax0OC, Kt9O1, obug4, 8W913
+aYVlB: yCDV3, IeeYX, 88nSP
+LRl9M: 17m9g, vuh49, 03Qka
+3ZGk8: LmZoz
+aNEQ7: psA6O, UXVxT, Kt9O1, i9SEB, ei5YC, dxHnB
+a34nw: Mim0u, GwbmA, 9a7Y7, DLXz8, J0G8g
+LmZoz: S4FmT, JmeEk, 3ZGk8, 3WWCo
+PXw1l: 8W913, E7cCj, 5650N, 88nSP, S0BSt
+zDivb: IzGuo, QNZmi, O5rPL, J0ixA, Uelc1, Qg1zm
+Wkz3l: 13ve9, OI18z, VftKq, ESfkt, tF4XE
+10j6S: RXX0g, gyUZj, YrFzI, D9TeM, lz3xC
+zvy0j: F2kL9, nA17G, ZR4Cs
+UVKm5: ap5dU, hGoNY, GNCDg, Qq7Sx, J0G8g
+Qg1zm: UXVxT, zDivb
+X815M: LjbNg, Tp8SK, AkMjn
+BNsQe: tApwz
+IeeYX: aYVlB, a3e1e, e8d1X, pNmCG, 2aWVt, iGf7S, qMo3Y
+kTiRg: EeMk3, 13ve9, avpJw, sMAOt
+VvMbe: ySdnc, zoyqI, 3CSg7, ESfkt
+9OJD3: DK6ZG
+5c7NG: psA6O, a3e1e, Jup0g, eF45X, JmeEk
+Eq22T: K8HLb, sc2uc, kcx0t
+gJU75: ILY8P, UXVxT, ETbGL, xMtsG, KwNKi
+44mTZ: EeMk3, 9vXPa
+Q5kwT: xF7K2, YrFzI, webwG, nA17G, vDT6R, TZgoJ
+wtZ1z: tF4XE, 5650N, 9NmJt, L31GS
+vDT6R: Q5kwT, E7cCj, uUeN5, qMo3Y, jgikX, d0Iko
+dqXBl: ySdnc, a3e1e, f0GRD
+9sZku: HGK6i, fMPPT, 9NmJt, TZgoJ
+R9QCH: psA6O, 8W913, 2ZMkN, jch0n, eZyXf
+JSxpI: jaonu, hOluC
+VB87t: ogKsQ, Vex4H, tBN0W
+EeMk3: kTiRg, D9TeM, CfqNf, 44mTZ
+Br0zP: snHrX
+oh9Hr: y1AOr, QNZmi, AZbgm, UXVxT
+OI18z: ogKsQ, Wkz3l, MBSee, ryY3C, KEdRl
+GNCDg: E7cCj, VROt3, VftKq, 88nSP, UVKm5
+OECja: Npdd3, SFulX
+3WWCo: K8HLb, C8ZvH, LmZoz, WlgT1
+73EP2: zxvrw, w2noN, Qq7Sx, 959sF
+uqFyk: mgLhA, nA17G, 959sF, D7myE
+agnHu: C8ZvH, D7myE, j2gxa
+Mim0u: nMuNK, w2noN, ycezf, NjsLt, a34nw
+Qq7Sx: 73EP2, z9R0C, sc2uc, UVKm5
+8F3Pt: hJXvI, 7O5hB, xMtsG, pkwtq
+gWQut: HGK6i, ei5YC, 9bi1d, DtJzl
+hBTgU: KsPVI, gyUZj, D3fy1, eZyXf, FROjw
+5650N: wtZ1z, OX0Io, 4HqPJ, hOluC, PXw1l, 2a3vO, xlpHk, DK6ZG, Y84Un
+nMuNK: AKCLP, Mim0u
+KwNKi: SFulX, UtIbQ, gJU75, yp1Kf, iGf7S
+Bsvo0: dxHnB, 3CSg7, ryY3C, jTTjs, YNHSb
+ei5YC: Npdd3, gWQut, fMPPT, aNEQ7
+417Q1: aYPyV, uoUPC
+oQD3A: 6ld9y, eF45X
+xIapw: 4E00o, jTTjs, VROt3, tAxYa, AI3Py, MuPq2
+9vXPa: VhI2f, 4dWW3, ryY3C, w6qL5, hbgZ2, 44mTZ
+9NmJt: wtZ1z, 9sZku
+NYAxC: ogKsQ, Wmds1, RvQtb, Jmz3L
+EtWhR: ax0OC, aEnkJ, PGgX1, QNZmi, hbgZ2, sMAOt, GKyp5
+7O5hB: 8F3Pt, 0qnpz, DjCWd, VROt3, avpJw
+aYPyV: 417Q1
+ZR4Cs: 8v9Tx, Uelc1, Ce6Ln, zvy0j
+psA6O: R9QCH, 9Ktc8, aNEQ7, 9bi1d, 5c7NG
+yCDV3: i9SEB, aYVlB, D3fy1, 6ld9y
+yp1Kf: 0mgAw, KwNKi, 7YCVS, ap5dU, MBSee, hZ8u3
+ExVbP: Y3jXu, 3CSg7, hbgZ2, xlpHk
+tMl4Y: PIVyF, XNyZx, ULDO0, SFulX
+DjCWd: dDmbS, ETbGL, 7O5hB
+VftKq: K8HLb, Wkz3l, MBSee, GNCDg
+HGK6i: gWQut, ycezf, 9sZku, KEdRl, 9tEih, FY9Xb, z9R0C
+Ohm1q: AI3Py, fA1uh, OX0Io, RfWSI
+OVG3D: 3CSg7, sy9RI, UUdcM
+gyUZj: 8W913, UXVxT, hBTgU, 10j6S, UUdcM, dxHnB, aEnkJ, 7Bwyk, FY9Xb
+J0ixA: UXVxT, ESfkt, EIdAJ, C8ZvH, XNyZx, lz3xC, zDivb
+kKT15: huTiU, QxCme, 2ZMkN, UQGTR
+w6qL5: S5Qez, 9vXPa, LLEMM
+dDmbS: 8v9Tx, Jup0g, DjCWd
+ax0OC: EtWhR, GKyp5, 959sF, JNx0R
+xF7K2: r9V9u, W3pt9, Q5kwT
+D9TeM: EeMk3, 2aWVt, f0GRD, 10j6S, NjsLt
+sc2uc: Eq22T, jgikX, osI8Q, Qq7Sx, lz3xC
+C8ZvH: agnHu, Vex4H, 3WWCo, J0ixA
+KYVE4: JmeEk, osI8Q
+9tEih: HGK6i, j2gxa, hOluC, YNHSb, sy9RI
+GeWlC: webwG, JmeEk
+BLTNm: 4mIm6, snHrX
+otIm7: 13ve9, MBSee
+fWeTM: tNM6l, ycezf, ZoufM
+FY9Xb: HGK6i, gyUZj
+YrFzI: 10j6S, Q5kwT
+xlpHk: 2Lt3n, ExVbP, 5650N
+vk5nw: 03Qka
+LjbNg: X815M, Ce6Ln
+tGOlE: My6fy, 8Qg0R, AkMjn, UtIbQ, GwbmA
+EVbqx: xMtsG, RfWSI
+EIdAJ: ySdnc, DLXz8, 8YZ5Z, J0ixA
+2xcRV: snHrX, dxHnB, MBSee, AkMjn, ySdnc, WAMEI
+4HqPJ: snHrX, 8W913, jML0R, 5650N, AI3Py
+8Qg0R: 0qnpz, tGOlE, B5qnb, pkwtq
+RXX0g: tF4XE, 10j6S, 7Bwyk
+aEnkJ: EtWhR, gyUZj, JmeEk
+ySdnc: 2xcRV, pNmCG, VvMbe, dqXBl, EIdAJ
+jML0R: YRwnk, 4HqPJ
+XVPhx: ILY8P, tF4XE, fKTzO, ESfkt, TZgoJ
+fA1uh: Ohm1q, 3YmhS
+RfWSI: Ohm1q, EVbqx, AwVf8
+SFulX: KwNKi, tMl4Y, o0GIB, 03Qka, 2aWVt, OECja
+RHcKG: XNyZx
+Gyq6u: Uelc1, hOluC
+y6Oo4: NjsLt, WAMEI
+pkwtq: 8F3Pt, 8Qg0R, TZgoJ
+D7myE: 9Ktc8, InKfk, OTU2x, uqFyk, sMAOt, agnHu, DtJzl
+o0GIB: SFulX, 7Bwyk, S5Qez
+vXndd: avpJw
+17m9g: LRl9M
+CfqNf: EeMk3, UXVxT, OTU2x, O5rPL, tApwz, 4mIm6
+NjsLt: otn40, y6Oo4, a3e1e, WlgT1, D9TeM, jTTjs, Mim0u
+7YCVS: yp1Kf, S4FmT
+9ZDtF: gDIH7, X03pO, D2itw, nA17G
+MBSee: yp1Kf, 2xcRV, 2aWVt, OI18z, otIm7, VftKq
+GwbmA: tGOlE, hZ8u3, a34nw, WAMEI
+AwVf8: d0Iko, dxHnB, 6ld9y, RfWSI, avpJw
+2a3vO: 4dWW3, 5650N, ESfkt
+nA17G: j1F59, l6ek1, Q5kwT, zvy0j, y3Twf, 9ZDtF, uqFyk
+hJXvI: 8F3Pt, 6ld9y, avpJw, XNyZx, fMPPT, zxvrw, Tp8SK, d0Iko
+sMAOt: EtWhR, kTiRg, mEqiP, YNHSb, D7myE
+uoUPC: W3pt9, 417Q1, lz3xC
+obug4: mgLhA, S4FmT, GKyp5, dOA6p
+jgikX: 13ve9, vDT6R, sc2uc
+IzGuo: dJeeM, zDivb, fKTzO
+tF4XE: Wkz3l, wtZ1z, 03Qka, RXX0g, DtJzl, XVPhx
+F2kL9: tApwz, zvy0j, L31GS
+vuh49: LRl9M, hbgZ2
+VhI2f: huTiU, 9vXPa
+y1AOr: oh9Hr
+2Lt3n: S0BSt, xlpHk
+DLXz8: QqEUx, a34nw, MuPq2, EIdAJ, fKTzO
+XNyZx: RHcKG, tMl4Y, 959sF, 8YZ5Z, J0ixA, hJXvI
+VROt3: xIapw, 7O5hB, AKCLP, GNCDg
+lz3xC: uoUPC, sc2uc, 10j6S, 31sIo, YNHSb, J0ixA, AI3Py, Tp8SK, tNM6l
+mEqiP: DJIuH, sMAOt
+f0GRD: dqXBl, D9TeM
+ETbGL: DjCWd, gJU75
+WlgT1: xMtsG, ESfkt, 8v9Tx, NjsLt, 3WWCo, My6fy, TBzNS
+KEdRl: ZoufM, zwm9a, avpJw, HGK6i, OI18z, O5rPL, Npdd3, W3pt9
+9a7Y7: K8HLb, a34nw
+W3pt9: QxCme, uoUPC, xF7K2, fMPPT, KEdRl
+hZ8u3: yp1Kf, OX0Io, GwbmA
+AZbgm: oh9Hr, jK142
+JmeEk: DJIuH, LmZoz, KYVE4, 31sIo, GeWlC, aEnkJ, iGf7S, 5c7NG, S4FmT
+TZgoJ: QxCme, Q5kwT, 6ld9y, pkwtq, 9sZku, hOluC, 31sIo, eF45X, XVPhx
+Mqwd7: 3CSg7, xMtsG, 8v9Tx
+ap5dU: yp1Kf, UVKm5
+ESfkt: Wkz3l, e8d1X, VvMbe, WlgT1, 2a3vO, J0ixA, qMo3Y, fKTzO, XVPhx
+8W913: GKyp5, R9QCH, 4HqPJ, Jup0g, gyUZj, S4FmT, PXw1l
+6LP1o: S0BSt, zwm9a
+MoKFs: Y84Un
+hOluC: Gyq6u, 5650N, JSxpI, 9tEih, TBzNS, TZgoJ
+Uelc1: ZR4Cs, Kt9O1, Gyq6u, zDivb, dOA6p
+dxHnB: 2xcRV, Bsvo0, aNEQ7, S5Qez, gyUZj, AwVf8, osI8Q, My6fy
+7Bwyk: i9SEB, o0GIB, 03Qka, RXX0g, zoyqI, gyUZj
+fMPPT: ei5YC, 9sZku, ILY8P, hJXvI, W3pt9, Y84Un
+D2itw: 9ZDtF, UtIbQ, S4FmT
+z9R0C: l6ek1, ryY3C, HGK6i, QNZmi, AkMjn, Qq7Sx
+UQGTR: kKT15
+JNx0R: ax0OC, 8YZ5Z
+3EX5l: uSssk
+d0Iko: hJXvI, vDT6R, AwVf8, Kt9O1
+dOA6p: 0mgAw, Uelc1, obug4, ZoufM
+gDIH7: 9ZDtF, 3CSg7, AkMjn, Y84Un
+DJIuH: 4dWW3, mEqiP, e8d1X, JmeEk
+l6ek1: z9R0C, xMtsG, nA17G
+DK6ZG: tApwz, 9OJD3, 5650N
+xMtsG: 8F3Pt, l6ek1, EVbqx, kcx0t, Mqwd7, WlgT1, gJU75
+OTU2x: jch0n, CfqNf, D7myE
+oxD8Y: Vex4H, zwm9a, OrtXB
+Jmz3L: YNHSb, NYAxC
+X03pO: 9ZDtF, K8HLb
+L31GS: wtZ1z, O5rPL, F2kL9, tBN0W, QxCme
+OrtXB: E7cCj, Y84Un, oxD8Y
+webwG: r9V9u, Jup0g, GeWlC, OX0Io, Q5kwT
+bXthp: Wmds1, Y3jXu
+13ve9: Wkz3l, 0mgAw, 4dWW3, 7Mj7H, pNmCG, kTiRg, otIm7, 88nSP, jgikX
+AkMjn: gDIH7, tGOlE, avpJw, 2xcRV, E7cCj, X815M, z9R0C
+S4FmT: 8W913, 7YCVS, D2itw, LmZoz, obug4, JmeEk
+rgiqf: InKfk, PIVyF
+mgLhA: uqFyk, obug4, YNHSb
+YRwnk: jML0R, UUdcM
+snHrX: 2xcRV, BLTNm, 4HqPJ, 31sIo, Br0zP
+KaHt7: QqEUx, jTTjs
+r9V9u: webwG, xF7K2
+8v9Tx: dDmbS, 3CSg7, Mqwd7, E7cCj, e8d1X, WlgT1, ZR4Cs
+j2gxa: agnHu, 2ZMkN, 9tEih
+jch0n: R9QCH, tApwz, jTTjs, OTU2x
+hGoNY: y3Twf, UVKm5
+959sF: ax0OC, XNyZx, UXVxT, eF45X, 73EP2, uqFyk
+SSf6o: jaonu, ZoufM, Kt9O1, otn40
+eF45X: TZgoJ, O5rPL, oQD3A, 959sF, 5c7NG
+S0BSt: 2Lt3n, ZoufM, PXw1l, 6LP1o
+qMo3Y: IeeYX, vDT6R, ESfkt, PGgX1, OX0Io
+UtIbQ: KwNKi, tGOlE, D2itw
+KcMji: 3YmhS, 8YZ5Z
+eZyXf: R9QCH, 9Ktc8, hBTgU, 9bi1d, sy9RI
+Y84Un: gDIH7, QxCme, 5650N, MoKFs, OrtXB, fMPPT, DtJzl
+fKTzO: IzGuo, DLXz8, ESfkt, XVPhx
+3CSg7: gDIH7, Mqwd7, ExVbP, Bsvo0, 8v9Tx, OVG3D, VvMbe
+Kt9O1: GKyp5, uSssk, SSf6o, aNEQ7, Uelc1, d0Iko
+B5qnb: 8Qg0R
+OX0Io: qMo3Y, webwG, hZ8u3, 5650N, Ohm1q
+i9SEB: 0mgAw, 6ld9y, sy9RI, yCDV3, 7Bwyk, aNEQ7, zxvrw
+Y3jXu: KsPVI, bXthp, ExVbP
+31sIo: snHrX, lz3xC, AI3Py, 4mIm6, Tp8SK, JmeEk, TZgoJ
+ULDO0: tMl4Y
+2aWVt: SFulX, D9TeM, Jup0g, IeeYX, MBSee, 8YZ5Z
+RvQtb: NYAxC
+FROjw: PIVyF, hBTgU
+Vex4H: C8ZvH, VB87t, oxD8Y
+YNHSb: mgLhA, Jmz3L, Bsvo0, jTTjs, 9tEih, lz3xC, osI8Q, sMAOt, tNM6l
+tBN0W: VB87t, L31GS
+4E00o: xIapw
+Npdd3: Ximnx, ei5YC, OECja, KEdRl
+tApwz: QxCme, F2kL9, ZoufM, jch0n, CfqNf, BNsQe, 0qnpz, DK6ZG
+0qnpz: tApwz, 8Qg0R, 7O5hB
+TBzNS: hOluC, WlgT1
+DtJzl: KsPVI, gWQut, tF4XE, Y84Un, D7myE
+MuPq2: xIapw, w2noN, DLXz8
+iGf7S: IeeYX, JmeEk, KwNKi

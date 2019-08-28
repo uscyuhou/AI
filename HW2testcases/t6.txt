@@ -1,0 +1,25 @@
+FT,WK,JQ,YF,JN,WQ,FK,YT,DP,PQ,LI,NY,RF,TC,TA,EO,EE,YE,XF,CF,DC,GD,EX,CS,ES,UW,MN,SV,KU,SQ
+Eydrg: FT-1, sAf2N: WK-2
+5
+FT:25,WK:17,JQ:7,YF:13,JN:12,WQ:4,FK:6,YT:28,DP:24,PQ:23,LI:20,NY:2,RF:18,TC:26,TA:24,EO:6,EE:5,YE:10,XF:3,CF:28,DC:14,GD:17,EX:22,CS:0,ES:19,UW:18,MN:12,SV:28,KU:6,SQ:4
+FT:17,WK:24,JQ:29,YF:20,JN:13,WQ:15,FK:17,YT:22,DP:15,PQ:25,LI:0,NY:3,RF:7,TC:9,TA:24,EO:28,EE:16,YE:16,XF:24,CF:2,DC:5,GD:1,EX:24,CS:27,ES:6,UW:6,MN:7,SV:14,KU:29,SQ:19
+Eydrg: sAf2N, 1hPXH
+aKsxo: lD2yq, E9TVz, aeBDT, 5Hymc
+KnFzV: KAnHz, vaEtp, tyON2
+E9TVz: aKsxo, sAf2N, SOBHq
+vaEtp: fGN6B, KAnHz, KnFzV, zTbov
+3Xytl: ecK34, aeBDT
+fGN6B: 5zLxN, lD2yq, vaEtp
+C4jwl: 5zLxN, KAnHz, ecK34
+ecK34: C4jwl, 1hPXH, QOh8d, 3Xytl
+SOBHq: E9TVz, tyON2, QOh8d
+aeBDT: aKsxo, QOh8d, 3Xytl, zTbov, 5zLxN, 1hPXH
+5Hymc: aKsxo, zTbov, tyON2
+zTbov: vaEtp, aeBDT, 5Hymc
+sAf2N: Eydrg, E9TVz, 1hPXH
+lD2yq: fGN6B, aKsxo, tyON2
+5zLxN: fGN6B, C4jwl, aeBDT
+KAnHz: C4jwl, KnFzV, vaEtp, QOh8d
+1hPXH: Eydrg, sAf2N, ecK34, tyON2, aeBDT
+tyON2: SOBHq, KnFzV, 1hPXH, 5Hymc, lD2yq
+QOh8d: KAnHz, ecK34, SOBHq, aeBDT
